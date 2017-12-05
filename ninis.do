@@ -1,4 +1,6 @@
 * NINIS
+* Marco Antonio Gomez Lovera
+* marco.gomez[at]colmex.mx
 
 set more off
 clear all
